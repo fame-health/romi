@@ -1131,6 +1131,46 @@
             </div>
         </div>
     </section>
+    
+<div class="mt-16 text-center animate-fade-in">
+  <h3 class="text-2xl font-bold text-gray-800 mb-8">Video Edukasi Terkait</h3>
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="flex flex-col md:flex-row justify-center gap-8">
+
+      <!-- Video 1 -->
+      <div class="w-full md:w-1/2 relative rounded-3xl overflow-hidden shadow-2xl hover-lift aspect-video">
+        <iframe class="w-full h-full" src="https://www.youtube.com/embed/BplnGR6OAQw?autoplay=0&rel=0"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent flex items-end p-4 pointer-events-none">
+          <div class="text-white">
+            <h4 class="text-lg font-semibold mb-1">Pentingnya Menjaga Kesehatan Mental</h4>
+            <p class="text-sm text-gray-200">Mengenal cara menjaga kesehatan mental untuk remaja</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Video 2 -->
+      <div class="w-full md:w-1/2 relative rounded-3xl overflow-hidden shadow-2xl hover-lift aspect-video">
+        <iframe class="w-full h-full" src="https://www.youtube.com/embed/u3Wz_5XeL8c?autoplay=0&rel=0"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent flex items-end p-4 pointer-events-none">
+          <div class="text-white">
+            <h4 class="text-lg font-semibold mb-1">Remaja Hebat, Indonesia Sehat</h4>
+            <p class="text-sm text-gray-200">Mengedukasi remaja untuk hidup sehat dan produktif</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
 
     <!-- FAQ Section -->
     <section id="faq" class="py-20 bg-white">
